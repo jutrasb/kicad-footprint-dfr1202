@@ -1,2 +1,1 @@
-# kicad-footprint-ckcs-ck2416
-KiCad footprint for the DFRobot DFR1202 / CKCS CK2416
+# KiCad Footprint for DFRobot DFR1202 / CKCS CK2416 DC-DC Converter
