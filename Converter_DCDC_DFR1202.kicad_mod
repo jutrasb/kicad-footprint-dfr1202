@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "DCDC-Converter, DFRobot, DFR0753 6-14V/8A")
-	(tags "DCDC Converter DFRobot DFR0753 6-14V/8A")
+	(descr "DCDC-Converter, DFRobot, DFR1202 6-24V/16A")
+	(tags "DCDC Converter DFRobot DFR1201 6-24V/16A")
 	(property "Reference" "REF**"
 		(at 15 -27 0)
 		(layer "F.SilkS")
